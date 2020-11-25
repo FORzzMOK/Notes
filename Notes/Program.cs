@@ -16,9 +16,9 @@ namespace Notes
         {
             while(true)
             {
-                Console.WriteLine("Plase select some action:");
-                Console.WriteLine("1. Add Note");
-                Console.WriteLine("2. Show Notes");
+                Console.WriteLine("Plase select some action: ");
+                Console.WriteLine("1. Add Note ");
+                Console.WriteLine("2. Show Notes ");
                 Console.WriteLine("3. Exit");
 
                 var input = Console.ReadLine();
